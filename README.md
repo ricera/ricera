@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ricera
 - 👀 I’m interested in video games and networking (separately, for now)
-- 🌱 I’m currently learning DCB (Data Center Bridging)
+- 🌱 I’m currently learning about Linux kernel development
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
