@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ricera
 - 👀 I’m interested in video games and networking (separately, for now)
-- 🌱 I’m currently learning about Linux kernel development
+- 🌱 I’m currently learning about photography and dynamic range
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
